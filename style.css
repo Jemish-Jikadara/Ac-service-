@@ -59,7 +59,7 @@ header {
     .video-res iframe{
       height: 100%;
       width: 100%;
-      border: 20px solid black;
+      border: 5px solid black;
       border-radius: 5px;
       display: block;
     }
