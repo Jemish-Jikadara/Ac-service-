@@ -6,7 +6,7 @@
 }
 
 body {
-  background: url('main.jpg') no-repeat center center fixed;
+  background: url('https://res.cloudinary.com/dr4xwyhwq/image/upload/main_ubgt78') no-repeat center center fixed;
   background-size: cover;
   color: #333;
 }
@@ -31,7 +31,7 @@ header {
 }
 
   .video-section {
-      padding: 0px 20px;
+      padding: 20px;
       background-color: #f4f4f4;
       text-align: center;
     }
@@ -43,11 +43,11 @@ header {
     }
 
     .video-container {
-      position: relative;
+      
       width: 100%;
       max-width: 800px;
-      margin: 0 auto;
-      padding-top: 26.25%; /* 16:9 ratio */
+      margin:  auto;
+      padding-top: 56.25%; /* 16:9 ratio */
     }
 
     .video-container video {
